@@ -2,8 +2,8 @@ Tää on Notepad-tiedosto, jossa on tekstiä.
 No niinpä näkyy...
 
 No niinpä näkyy... TÖTTÖrrööö!!!
-<<<<<<< HEAD
+
 tässä uusi rivi...
-=======
+
 Zäkädäkädää!
->>>>>>> 19215444656548bfe878f274b4aed773a01d8652
+
