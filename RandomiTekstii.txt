@@ -1,3 +1,4 @@
-Tää on Notepad-tiedosto, jossa on tekstiä.
+Tää on Notepad-tiedosto, jossa on tekstiä. 
+No niinpä näkyy...
 
 No niinpä näkyy... TÖTTÖrrööö!!!
